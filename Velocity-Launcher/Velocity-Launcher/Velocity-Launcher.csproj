@@ -1,0 +1,79 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net462</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Velocity-Logo.ico</ApplicationIcon>
+    <Authors />
+    <Title>Velocity Launcher</Title>
+    <Company>Velocity</Company>
+    <Product>Velocity Launcher</Product>
+    <Description>Velocity Launcher</Description>
+    <PackageProjectUrl>https://discord.gg/zHvv9Pb6ax</PackageProjectUrl>
+    <RootNamespace>Velocity_Launcher</RootNamespace>
+    <AssemblyName>VelocityLauncher</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="AppLogo.ico" />
+    <None Remove="astraL.jpg" />
+    <None Remove="astral.png" />
+    <None Remove="Banner.png" />
+    <None Remove="bar.PNG" />
+    <None Remove="Icons\C2S2.png" />
+    <None Remove="Icons\NormalFortnite.png" />
+    <None Remove="image-17-1.png" />
+    <None Remove="lettre-vecteur-papier-decoupe-illustration-police-volumetrique-monochrome-isole-fond-blanc_822686-57.png" />
+    <None Remove="Sans_titre-3.jpg" />
+    <None Remove="Sans_titre-3.png" />
+    <None Remove="Tabs\battlesplash.png" />
+    <None Remove="Velocity-Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Velocity-Logo.ico" />
+    <Content Include="Tabs\battlesplash.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Costura.Fody" Version="5.7.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="DiscordRichPresence" Version="1.2.1.24" />
+    <PackageReference Include="DnsClient" Version="1.7.0" />
+    <PackageReference Include="ModernWpfUI" Version="0.9.6" />
+    <PackageReference Include="WindowsAPICodePack.Shell.CommonFileDialogs" Version="1.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Banner.png" />
+    <Resource Include="Icons\C2S2.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Icons\NormalFortnite.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Velocity-Logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Update="Tabs\Settings.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

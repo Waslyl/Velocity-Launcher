@@ -1,0 +1,165 @@
+C:\Users\User\Desktop\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe.config
+C:\Users\User\Desktop\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe
+C:\Users\User\Desktop\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.pdb
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe.config
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Login.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Login.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\App.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_Content.g.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.cache
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.lref
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\App.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.baml
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.g.resources
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfo.cs
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.Fody.CopyLocal.cache
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe
+C:\Users\User\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.pdb
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.pdb
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe.config
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.pdb
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.AssemblyReference.cache
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe.config
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Login.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Login.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\App.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_Content.g.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.cache
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.lref
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\App.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.baml
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.g.resources
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfoInputs.cache
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfo.cs
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.CoreCompileInputs.cache
+C:\Users\NuZiuki\Desktop\dosier du 12\LAUCNHER ASTRAL FN\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.Fody.CopyLocal.cache
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe.config
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.pdb
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.AssemblyReference.cache
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe.config
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Login.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Login.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\App.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_Content.g.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.cache
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.lref
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\App.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.baml
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.g.resources
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfoInputs.cache
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfo.cs
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.CoreCompileInputs.cache
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.Fody.CopyLocal.cache
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe
+C:\Users\NuZiuki\Desktop\Launcherastralfn\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.pdb
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe.config
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.pdb
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.AssemblyReference.cache
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe.config
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Login.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Login.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\App.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_Content.g.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.cache
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.lref
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\App.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.baml
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.g.resources
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfoInputs.cache
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfo.cs
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.CoreCompileInputs.cache
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.Fody.CopyLocal.cache
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe
+C:\Users\samwa\Desktop\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.pdb
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe.config
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.exe
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\bin\Release\net462\AstralLauncher.pdb
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.AssemblyReference.cache
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe.config
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Login.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\LoadingScreen.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Login.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\App.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_Content.g.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.cache
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher_MarkupCompile.lref
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\App.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\MainWindow.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Downloads.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Home.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Library.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\Tabs\Settings.baml
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.g.resources
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfoInputs.cache
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.AssemblyInfo.cs
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.CoreCompileInputs.cache
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.csproj.Fody.CopyLocal.cache
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.exe
+C:\Users\samwa\Documents\Chose utile\Launcherastralfn\Tilted\obj\Release\net462\AstralLauncher.pdb

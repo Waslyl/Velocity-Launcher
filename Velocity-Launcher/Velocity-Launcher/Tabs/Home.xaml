@@ -1,0 +1,33 @@
+﻿<Page x:Class="Velocity_Launcher.Tabs.Home"
+  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+  xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+  xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+  xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+  xmlns:ui="http://schemas.modernwpf.com/2019"
+      xmlns:local="clr-namespace:Velocity_Launcher.Tabs"
+      mc:Ignorable="d" 
+      d:DesignHeight="364" d:DesignWidth="819"
+      Title="Home">
+
+    <Grid>
+        <Border Background="#2b3745" Margin="0,10,420,268" CornerRadius="10">
+            <Button Background="Transparent" BorderThickness="0" Click="Discord_Click" HorizontalAlignment="Center" Height="110" Width="476">
+                <Grid VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <TextBlock Foreground="White" FontFamily="Segoe MDL2 Assets" FontSize="30" Text="&#xE90A;" Margin="-119,0,146,3"/>
+                    <TextBlock Foreground="White" FontSize="16" FontWeight="Bold" Margin="-80,-3,81,3">Discord</TextBlock>
+                    <TextBlock Foreground="White" Text="Join our Discord server" Margin="-81,14,81,-13"/>
+                </Grid>
+            </Button>
+        </Border>
+        <Border Background="#2b3745" Margin="0,108,0,173" CornerRadius="10">
+            <Button Background="Transparent" BorderThickness="0" Click="Launch_Click" HorizontalAlignment="Center" Height="108" Width="936">
+                <Grid VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <TextBlock Foreground="White" FontFamily="Segoe MDL2 Assets" FontSize="30" Text="&#xEDB5;" Margin="-316,3,338,0"/>
+                    <TextBlock Foreground="White" FontSize="16" FontWeight="Bold" Margin="-278,1,278,0">Launch</TextBlock>
+                    <TextBlock Foreground="White" Text="Launch Chapter 2 Season 2" Margin="-278,18,278,-18"/>
+                </Grid>
+            </Button>
+        </Border>
+        
+    </Grid>
+</Page>
