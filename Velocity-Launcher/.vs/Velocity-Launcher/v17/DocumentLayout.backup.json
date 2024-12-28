@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\samwa\\Documents\\GitHub\\Velocity-Launcher\\Velocity-Launcher\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42AA6019-71EF-4201-9AA5-0D8EEBE212EA}|Velocity-Launcher\\Velocity-Launcher.csproj|c:\\users\\samwa\\documents\\github\\velocity-launcher\\velocity-launcher\\velocity-launcher\\tabs\\settings.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{42AA6019-71EF-4201-9AA5-0D8EEBE212EA}|Velocity-Launcher\\Velocity-Launcher.csproj|solutionrelative:velocity-launcher\\tabs\\settings.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42AA6019-71EF-4201-9AA5-0D8EEBE212EA}|Velocity-Launcher\\Velocity-Launcher.csproj|c:\\users\\samwa\\documents\\github\\velocity-launcher\\velocity-launcher\\velocity-launcher\\resources\\launch\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42AA6019-71EF-4201-9AA5-0D8EEBE212EA}|Velocity-Launcher\\Velocity-Launcher.csproj|solutionrelative:velocity-launcher\\resources\\launch\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AA6019-71EF-4201-9AA5-0D8EEBE212EA}|Velocity-Launcher\\Velocity-Launcher.csproj|c:\\users\\samwa\\documents\\github\\velocity-launcher\\velocity-launcher\\velocity-launcher\\tabs\\settings.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{42AA6019-71EF-4201-9AA5-0D8EEBE212EA}|Velocity-Launcher\\Velocity-Launcher.csproj|solutionrelative:velocity-launcher\\tabs\\settings.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Settings.xaml.cs",
               "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Velocity-Launcher\\Velocity-Launcher\\Velocity-Launcher\\Tabs\\Settings.xaml.cs",
               "RelativeDocumentMoniker": "Velocity-Launcher\\Tabs\\Settings.xaml.cs",
               "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Velocity-Launcher\\Velocity-Launcher\\Velocity-Launcher\\Tabs\\Settings.xaml.cs",
               "RelativeToolTip": "Velocity-Launcher\\Tabs\\Settings.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T16:28:13.908Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\samwa\\Documents\\GitHub\\Velocity-Launcher\\Velocity-Launcher\\Velocity-Launcher\\Resources\\Launch\\Game.cs",
               "RelativeDocumentMoniker": "Velocity-Launcher\\Resources\\Launch\\Game.cs",
               "ToolTip": "C:\\Users\\samwa\\Documents\\GitHub\\Velocity-Launcher\\Velocity-Launcher\\Velocity-Launcher\\Resources\\Launch\\Game.cs",
               "RelativeToolTip": "Velocity-Launcher\\Resources\\Launch\\Game.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwC4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwIUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T16:21:12.936Z"
+              "WhenOpened": "2024-12-27T16:21:12.936Z",
+              "EditorCaption": ""
             }
           ]
         }

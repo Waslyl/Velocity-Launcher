@@ -29,3 +29,4 @@ C:\Users\samwa\Documents\GitHub\Velocity-Launcher\Velocity-Launcher\Velocity-Lau
 C:\Users\samwa\Documents\GitHub\Velocity-Launcher\Velocity-Launcher\Velocity-Launcher\obj\Release\net462\Velocity-Launcher.csproj.Fody.CopyLocal.cache
 C:\Users\samwa\Documents\GitHub\Velocity-Launcher\Velocity-Launcher\Velocity-Launcher\obj\Release\net462\VelocityLauncher.exe
 C:\Users\samwa\Documents\GitHub\Velocity-Launcher\Velocity-Launcher\Velocity-Launcher\obj\Release\net462\VelocityLauncher.pdb
+C:\Users\samwa\Documents\GitHub\Velocity-Launcher\Velocity-Launcher\Velocity-Launcher\obj\Release\net462\Velocity-Launcher.sourcelink.json

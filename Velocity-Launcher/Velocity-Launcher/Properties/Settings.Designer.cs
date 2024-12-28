@@ -58,5 +58,17 @@ namespace Velocity_Launcher.Properties {
                 this["Password"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("False")]
+        public bool EditOnRelease {
+            get {
+                return ((bool)(this["EditOnRelease"]));
+            }
+            set {
+                this["EditOnRelease"] = value;
+            }
+        }
     }
 }
